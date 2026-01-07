@@ -25,12 +25,12 @@ Berikut adalah tampilan antarmuka dari aplikasi ini:
 
 | **Intro / Landing Page** | **Login Page** |
 |:---:|:---:|
-| <img src="screenshot_intro.png" width="100%" alt="Intro Page"> | <img src="screenshot_login.png" width="100%" alt="Login Page"> |
+| <img src="/preview/intro.png" width="100%" alt="Intro Page"> | <img src="/preview/login.png" width="100%" alt="Login Page"> |
 | *Tampilan awal dengan efek animasi Wave* | *Halaman Login Modern* |
 
 | **Dashboard Admin** | **Data Peminjaman & Denda** |
 |:---:|:---:|
-| <img src="screenshot_dashboard.png" width="100%" alt="Dashboard"> | <img src="screenshot_tabel.png" width="100%" alt="Tabel Data"> |
+| <img src="/preview/dashboard.png" width="100%" alt="Dashboard"> | <img src="/preview/data.png" width="100%" alt="Tabel Data"> |
 | *Statistik Peminjaman Real-time* | *Tabel dengan Indikator Denda Otomatis* |
 
 > *Catatan: Screenshot adalah representasi dari sistem yang berjalan.*
