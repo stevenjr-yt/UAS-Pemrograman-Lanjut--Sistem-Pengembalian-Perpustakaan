@@ -33,7 +33,7 @@ Berikut adalah tampilan antarmuka dari aplikasi ini:
 | <img src="screenshot_dashboard.png" width="100%" alt="Dashboard"> | <img src="screenshot_tabel.png" width="100%" alt="Tabel Data"> |
 | *Statistik Peminjaman Real-time* | *Tabel dengan Indikator Denda Otomatis* |
 
-> *Catatan: Ganti `screenshot_intro.png`, dll dengan nama file gambar yang kamu upload.*
+> *Catatan: Screenshot adalah representasi dari sistem yang berjalan.*
 
 ---
 
@@ -102,9 +102,3 @@ CREATE TABLE peminjaman (
     tgl_pinjam DATE NOT NULL,
     tgl_kembali DATE NULL -- Boleh Kosong (NULL) saat baru pinjam
 );
-
--- 5. Contoh Data Dummy
-INSERT INTO peminjaman (nama_peminjam, judul_buku, tgl_pinjam, tgl_kembali) VALUES 
-('Andi Santoso', 'Pemrograman PHP', '2024-12-10', '2024-12-18'), -- Telat
-('Budi Hartono', 'MySQL untuk Pemula', '2024-12-15', '2024-12-22'), -- Aman
-('Citra Maharani', 'Pengantar Database', '2025-01-01', NULL); -- Sedang Pinjam
